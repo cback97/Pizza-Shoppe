@@ -1,0 +1,36 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  color: white;
+  font-size: 38px;
+  font-family: arial, helvetica, sans-serif;
+}
+
+.header {
+  background-color: black;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+}
+
+.body{
+  color: white;
+  font-family: arial, helvetica, sans-serif;
+}
+
+img{
+  width: 25%;
+  height: 25%;
+}
+
+.footer{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+   padding-left: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
